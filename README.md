@@ -34,7 +34,6 @@ I'm a Mobile Application Developer with strong experience in building modern, hi
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelawad95&layout=compact)
 <br>
 <a href="https://komarev.com/ghpvc/?username=aseelawad95&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=aseelawad95&style=for-the-badge">
